@@ -1,4 +1,4 @@
-// routes/main.js
+
 const mainRoute = require("express").Router();
 const fs = require("fs").promises;
 
